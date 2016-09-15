@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/l28wl' title='TipCalculator Video Walkthrough' width='454' alt='Video Walkthrough' />
+![Video Walkthrough](TipCalculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
